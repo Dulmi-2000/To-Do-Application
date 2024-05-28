@@ -1,0 +1,26 @@
+/* Navbar.css */
+
+.navbar {
+    padding: 10px 0;
+    background-color: rgb(15, 18, 107);
+  }
+  
+  .navbar-brand {
+    display: flex;
+    align-items: center;
+    padding-left: 20px;
+  }
+  
+  .navbar-brand img {
+    width: 50px;
+    margin-right: 10px;
+  }
+  
+  .navbar-nav .nav-link {
+    margin-right: 10px;
+  }
+  
+  .navbar-collapse {
+    padding-right: 30px;
+  }
+  
