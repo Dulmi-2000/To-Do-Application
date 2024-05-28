@@ -9,20 +9,20 @@ Code base has commited to the Development branch.
 
 Backend (Spring Boot) Setup:-
 
-Clone the Repository
-Navigate to the Backend Directory
-Configure Database Connection
+Clone the Repository.
+Navigate to the Backend Directory.
+Configure Database Connection.
 spring.datasource.url=jdbc:mysql://localhost:3306/your_database_name
 spring.datasource.username=your_mysql_username
 spring.datasource.password=your_mysql_password
-Build and Run the Backend
+Build and Run the Backend.
 
 
 
 Frontend Setup:-
 
-Navigate to the Frontend Directory
-Install Dependencies
-npm install
-Configure Backend API URL
-Run the Frontend
+Navigate to the Frontend Directory.
+Install Dependencies.
+npm install.
+Configure Backend API URL.
+Run the Frontend.
