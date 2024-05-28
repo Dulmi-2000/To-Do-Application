@@ -1,0 +1,56 @@
+.container {
+   
+  
+}
+
+.table {
+    width: 100%;
+    margin-top: 20px;
+}
+
+.table th,
+.table td {
+    text-align: left;
+    padding: 8px;
+}
+
+.table th {
+    background-color: #f4f4f4;
+}
+
+.btn {
+    margin-right: 5px;
+}
+
+.todo-details {
+    padding: 15px;
+    text-align: left;
+  }
+  
+  .addbtn{
+    display: flex;
+    background-color: rgb(15, 18, 107);
+    float: left;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+    color: white;
+    padding: 5px 20px 5 20px;
+  }
+
+  .addbtn::before{
+    background-color: rgb(65, 67, 117);
+  }
+
+  @media (max-width: 767px){
+        .Display{
+            display: none;
+        }
+  }
+
+  .actions{
+    display: flex;
+    float: right;
+  }
+
+  
